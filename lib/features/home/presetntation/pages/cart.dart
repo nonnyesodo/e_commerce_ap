@@ -1,11 +1,6 @@
 import 'package:eccomerce/constants/appcolors.dart';
 import 'package:eccomerce/constants/export.dart';
 import 'package:eccomerce/features/home/data/local/homeimages.dart';
-import 'package:eccomerce/globalwidget/appbar.dart';
-import 'package:eccomerce/globalwidget/appbutton.dart';
-import 'package:eccomerce/globalwidget/appscaffold.dart';
-import 'package:eccomerce/globalwidget/appshadowcontainer.dart';
-import 'package:eccomerce/globalwidget/apptext.dart';
 import 'package:eccomerce/globalwidget/export.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
